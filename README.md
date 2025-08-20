@@ -89,7 +89,3 @@ You can test the deployed model here:
 
 ✨ **Conclusion:**
 This project demonstrates the effectiveness of advanced regression models (especially **XGBoost**) in predicting airline ticket prices with very high accuracy. Beyond modeling, the analysis also highlights the key factors influencing pricing strategies in the Indian airline industry.
-
----
-
-Mau saya tambahkan juga **cara menjalankan project secara lokal** (misalnya `requirements.txt`, cara install dependencies, dan cara run notebook), supaya README ini lebih praktis untuk portofolio GitHub?
